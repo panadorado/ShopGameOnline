@@ -1,0 +1,119 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    color: #fff;
+    background-image: url(../Images/Background-ListGame.jpg);
+    background-position: top;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+a {
+    color: #fff;
+}
+
+a:hover {
+    color: #ff0000;
+}
+
+/* Style for GameList.aspx */
+.GameList-Content {
+    border: 1px solid #000;
+    /*background-image: url('../Images/Background.jpg');*/
+    background-color: #242424;
+    opacity: 0.9;
+    box-shadow: 5px 10px 8px #000;
+}
+
+.GameList-Content table {
+    text-align: center;
+    margin: 0px auto;
+    width: 100%;
+}
+
+.btn-buy {
+    border: none;
+    border-radius: 5px;
+    background-color: #b6ff00;
+    width: 65px;
+    color: #008CBA;
+    font-weight: bold;
+}
+
+.btn-buy:hover {
+    color:#ff0000;
+    background-color: #fff;
+}
+
+#nav-menu a {
+    position: center;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+}
+
+#nav-menu a:hover {
+    background: #fff;
+    color: #ff0000;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+/* Styles CSS for Site.Master */
+#TitleContent {
+    text-align: center;
+    width: 100%;
+}
+/*****************************/
+
+/* Styles CSS for pages content of Default.aspx */
+.nav-pages {
+    text-align: center;
+    width: 100%;
+    background: #242424;
+    border: 1px solid #000;
+    box-shadow: 5px 10px 8px #000;
+}
+/*********************************************/
+
+/* Style CSS for GameDetails.aspx*/
+.nav-PagesContent {
+    opacity: 0.9;
+    vertical-align: top;
+    text-align: left;
+    border: 1px solid #000;
+    background: #242424;
+}
+
+.nav-PagesContent p {
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+footer {
+    margin: 0px auto;
+    width: 100%;
+    background: #242424;
+    border: 1px solid #000;
+    font-size: 18px;
+    box-shadow: 5px 10px 8px #000;
+}
+
+footer p {
+    text-align: center;
+    margin: auto;
+}
+
+.CategoryMenu {
+    margin: 0px auto;
+    width: 100%;
+    background: #242424;
+    border: 1px solid #000;
+    font-size: 18px;
+    text-align: center;
+    box-shadow: 5px 10px 8px #000;
+}
