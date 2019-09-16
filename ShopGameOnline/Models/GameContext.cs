@@ -12,5 +12,6 @@ namespace ShopGameOnline.Models
         { }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Game> Games { get; set; }
+        public DbSet<CartItem> ShoppingCartItems { get; set; }
     }
 }

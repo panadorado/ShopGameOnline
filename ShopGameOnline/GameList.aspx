@@ -33,12 +33,20 @@
                                     <a href="GameDetails.aspx?gameID=<%#:Item.GameID%>">
                                         <img src ="/Images/<%#:Item.ImagePath%>" width="180" height="225" style="border:solid" />
                                     </a>
-                                    <br></br>
+                                    </br>
                                     <a href="GameDetails.aspx?gameID=<%#:Item.GameID%>" class="linkDetails">
                                         <span><%#:Item.GameName%></span>
                                     </a>
-                                    <br></br>
-                                    <span><b>Price: </b><button class="btn-buy"><%#:String.Format("{0:c}",Item.UnitPrice)%></button></span>
+                                    </br>
+
+                                    <span>
+                                        <b>Price: </b><%#:String.Format("{0:c}",Item.UnitPrice)%>
+                                        <i class="fas fa-shopping-cart"></i>
+                                        <a class="btn-buy" href="AddToCart.aspx?gameID=<%#:Item.GameID%>">
+                                            <span><b>Add To Cart<b></span>
+                                        </a>
+                                    </span>
+ 
                                 </td>
                             </tr>
 

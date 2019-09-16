@@ -15,9 +15,12 @@
                     <td class="nav-PagesContent" style="box-shadow: 5px 10px 8px #000">
                         <p>
                             <b>Description: </b><%#:Item.Description %>
-                            <br /><span><b>Price:</b>&nbsp;<button class="btn-buy"><%#:String.Format("{0:c}",Item.UnitPrice)%></button></span>
+                            <br /><span><b>Price:</b>&nbsp;<%#:String.Format("{0:c}",Item.UnitPrice)%></span>
                             <br /><span><b>Game Number:</b>&nbsp;<%#:Item.GameID %></span>
-                            <br />
+                            <br /><i class="fas fa-shopping-cart"></i>
+                            <a class="btn-buy" href="AddToCart.aspx?gameID=<%#:Item.GameID%>">
+                                <span><b>Add To Cart<b></span>
+                            </a>
                         </p>
                     </td>
                 </tr>
