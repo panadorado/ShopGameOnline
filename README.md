@@ -11,10 +11,8 @@
 <img src="https://raw.githubusercontent.com/panadorado/ShopGameOnline/master/image/Capture3-3.PNG" border="0"/></br>
 <img src="https://raw.githubusercontent.com/panadorado/ShopGameOnline/master/image/Capture4.PNG" border="0"/></br>
 * Thêm vào giỏ hàng đơn giản bạn chỉ việc click vào button Add To Cart.</br>
- <img src="https://raw.githubusercontent.com/panadorado/ShopGameOnline/master/image/Capture5.PNG" border="0"/></br>
 * thì ngay lập tức trang hiển thị ra cho bạn những tựa game bạn cần mua với số lượng và giá tiền phụ thuộc vào số lượng bạn cần sau đó sẽ tự động xuất ra tổng số tiền bạn cần trả.
-* nếu muốn thêm game vào giỏ hàng bạn chỉ việc quay lại trang Danh sách các tựa game bằng thanh Menu và Add To Cart thêm vào đồng thời trên thành menu ở mục Cart cũng sẽ hiển thị
-số lượng game bạn đang thêm vào giỏ.</br>
+* nếu muốn thêm game vào giỏ hàng bạn chỉ việc quay lại trang Danh sách các tựa game bằng thanh Menu và Add To Cart thêm vào đồng thời trên thành menu ở mục Cart cũng sẽ hiển thị số lượng game bạn đang thêm vào giỏ.</br>
 <img src="https://raw.githubusercontent.com/panadorado/ShopGameOnline/master/image/Capture5.PNG" border="0"/></br>
 * Ở hàng "Remove Item" cho phép bạn tích vào ô nhỏ khi game bạn không cần mua nữa.</br>
 <img src="https://raw.githubusercontent.com/panadorado/ShopGameOnline/master/image/Capture6.PNG" border="0"/></br>
