@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/panadorado/ShopGameOnline/master/image/Capture5.PNG" border="0"/></br>
 * Ở hàng "Remove Item" cho phép bạn tích vào ô nhỏ khi game bạn không cần mua nữa.</br>
 <img src="https://raw.githubusercontent.com/panadorado/ShopGameOnline/master/image/Capture6.PNG" border="0"/></br>
-* sau khi tích xong bạn ấn vào button Update thì giỏ hàng của bạn tự động cập nhập lại số tiền đồng càn trả đồng thời
+* sau khi tích xong bạn ấn vào button Update thì giỏ hàng của bạn tự động cập nhập lại số tiền cần trả đồng thời
 xoá hẵn những game bạn không cần.</br>
 <img src="https://raw.githubusercontent.com/panadorado/ShopGameOnline/master/image/Capture7.PNG" border="0"/></br>
 
