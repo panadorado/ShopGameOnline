@@ -1,4 +1,4 @@
-# So sánh và kiểm tra CSDL của Website vs SQL
+# Kiểm tra và Liên kết CSDL của Website vs SQL
 <img src="https://raw.githubusercontent.com/panadorado/ShopGameOnline/master/image/SQLvsWEBSITE.PNG" border="0"/></br>
 
 # ShopGameOnline
